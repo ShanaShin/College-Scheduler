@@ -1,4 +1,4 @@
-# H1 Overview
+# Overview
 The app our team designed is a College Scheduler App where students can add and update their To-Do List, Course Schedule, Exam Dates, and Assignments
 
 # H2 Home Page
