@@ -35,3 +35,12 @@ On the Home Page, you will find a selection of buttons to access different featu
    * Sort Assignments: Click the "Sort" button to sort assignments by due date.
    * Edit Assignment: Click on the assignment, update the details, and click the "Update" button.
    * Delete Assignment: Hold down on the assignment to remove it.
+
+## Contributions
+If you'd like to contribute, please fork the repository and create a pull request with your changes!
+
+## Contact
+If you have any questions or feedback, feel free to reach out to me at shannashin1@gmail.com!
+
+
+
