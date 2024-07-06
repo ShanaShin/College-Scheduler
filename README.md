@@ -1,28 +1,35 @@
 # Overview
-The app our team designed is a College Scheduler App where students can add and update their To-Do List, Course Schedule, Exam Dates, and Assignments
+The College Scheduler App is designed to help students manage their academic responsibilities efficiently. With this app, students can add and update their To-Do List, Course Schedule, Exam Dates, and Assignments.
 
-## Home Page
-On our Home Page, you will be greeted with a selection of buttons to choose from, labeled according to what you are trying to access. Clicking one of the buttons will take you to the page associated with that topic.
+## Main Features
+1. To-Do List: Track and manage current tasks and activities.
+2. Course Schedule: Upload and edit class details such as course name, professor, location, and time.
+3. Exam Dates: Keep track of exam schedules.
+4. Assignments: Organize and sort assignments by due date.
 
-## To-Do List
-Our first page is a To-Do List, where users can input their current tasks and activities to complete
-All they have to do is type in their task and click the "Add Task" button. 
-If they have completed one of their tasks, holding down on the task will delete the task and remove it from the To-Do List. 
-To edit a current task, click on the task, type in the changed details, and click the "Update" button. 
+## Installation
+1. Clone the repository
+3. Open the project in Android Studio.
+4. Build and run the project on an Android device or emulator.
 
-## Course Schedule
-Our next page is the Course Schedule, where students can upload their current classes with details such as "Course Name", "Professor", "Location", and "Time". 
-To edit any of the information regarding their courses, users can click on the course, update the information, and click the "Update" button. 
-To remove a course from their schedule, as previously stated, users will need to hold down on the course.
+## Usage
 
-## Exam Dates
-The third page is the Exam Dates page where students can add information about their upcoming exams to keep track of them.
-They can add information such as the title of their exam, the location, the date, and the time of the exam.
-To edit any of the exam details, the users can click on the exam material inputted, update the details, then click "Update".
-Exam details can also be removed by holding down on the exam material that is to be removed. Lastly, the exam can be sorted by date by clicking the "Sort" button.
-
-## Assignments
-Our last page is the Assignments page, where students can organize their assignments in one place.
-They can add details such as the title, due date, and course of the assignment. 
-The assignments inputted can also be sorted based on the due date by clicking the "Sort" button. T
-hese assignments may also be edited and removed as explained earlier.
+### Home Page
+On the Home Page, you will find a selection of buttons to access different features of the app. Clicking a button will take you to the corresponding page.
+1. ### To-Do List
+   * Add Task: Type in your task and click the "Add Task" button.
+   * Complete Task: Hold down on a completed task to delete it.
+   * Edit Task: Click on the task, update the details, and click the "Update" button.
+2. ### Course Schedule
+   * Add Course: Input course details such as "Course Name", "Professor", "Location", and "Time".
+   * Edit Course: Click on the course, update the information, and click the "Update" button.
+   * Delete Course: Hold down on the course to remove it from the schedule.
+3. ### Exam Dates
+   * Add Exam: Input exam details similar to course details.
+   * Edit Exam: Click on the exam, update the information, and click the "Update" button.
+   * Delete Exam: Hold down on the exam to remove it from the schedule.
+4. ### Assignments
+   * Add Assignment: Enter the title, due date, and course of the assignment.
+   * Sort Assignments: Click the "Sort" button to sort assignments by due date.
+   * Edit Assignment: Click on the assignment, update the details, and click the "Update" button.
+   * Delete Assignment: Hold down on the assignment to remove it.
