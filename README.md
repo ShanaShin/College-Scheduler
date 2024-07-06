@@ -1,6 +1,8 @@
 # Overview
 The College Scheduler App is designed to help students manage their academic responsibilities efficiently. With this app, students can add and update their To-Do List, Course Schedule, Exam Dates, and Assignments.
 
+### [Website Link!](https://sites.google.com/view/cs2340project1group82/project-page)
+
 ## Main Features
 1. To-Do List: Track and manage current tasks and activities.
 2. Course Schedule: Upload and edit class details such as course name, professor, location, and time.
